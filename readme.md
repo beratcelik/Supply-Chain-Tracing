@@ -4,6 +4,7 @@ The project is a blockchain application to trace the proccess on the coffee from
 
 ### UML Diagrams
 #### Activity Diagram
+
 ![truffle test](images/ActivityDiagramCoffeeSupplyChain.png)
 #### Sequence Diagram
 ![truffle test](images/SquenceDiagramCoffeeSupplyChain.png)
