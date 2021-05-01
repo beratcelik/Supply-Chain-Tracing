@@ -2,7 +2,7 @@
 
 The project is a blockchain application to trace the proccess on the coffee from the farm to the end user. This is a part of the prereuest for the Nano Degree program of Udacity.
 
-###UML Diagrams
+### UML Diagrams
 #### Activity Diagram
 ![truffle test](images/ActivityDiagramCoffeeSupplyChain.png)
 #### Sequence Diagram
